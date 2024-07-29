@@ -21,7 +21,7 @@ class Config(object):
     MESSAGE_DUMP = -1001629811868
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = ""
 
     # Support chat and support ID
     SUPPORT_CHAT = "ProjectCodeXSupport"
